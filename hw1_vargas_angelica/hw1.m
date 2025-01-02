@@ -1,3 +1,4 @@
+% change just for testing (push up to github hehe)
 % add data points for x and y
 % data based on the example shown in slide 10
 x = [2, 2, 3, 4, 4, 5, 6, 7, 8, 9, 5]';
